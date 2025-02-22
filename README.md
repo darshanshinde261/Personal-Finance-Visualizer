@@ -11,5 +11,10 @@
 3. Create `.env` with MongoDB URI
 4. `npm run dev`
 
+## TODO
+- delete the transactions.
+- delete the budget.
+- update the transactions.
+
 ## Live Demo
-[Vercel Deployment Link](...)
+[Vercel Deployment Link](https://finance-visualizer-nu.vercel.app/)
